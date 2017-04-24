@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<dailyForecast>
+  <date>2017-06-07</date>
+  <description>sunny</description>
+  <maxTemp unit="C">22</maxTemp>
+  <minTemp unit="C">20</minTemp>
+  <windSpeed unit="kph">12</windSpeed>
+  <danger>false</danger>
+</dailyForecast>
